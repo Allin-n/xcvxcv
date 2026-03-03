@@ -1,1 +1,0 @@
-"""Telegram C2 Bot package"""
